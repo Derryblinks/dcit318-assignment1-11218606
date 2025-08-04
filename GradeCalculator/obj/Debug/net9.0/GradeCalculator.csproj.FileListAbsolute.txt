@@ -1,0 +1,15 @@
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\bin\Debug\net9.0\GradeCalculator.exe
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\bin\Debug\net9.0\GradeCalculator.deps.json
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\bin\Debug\net9.0\GradeCalculator.runtimeconfig.json
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\bin\Debug\net9.0\GradeCalculator.dll
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\bin\Debug\net9.0\GradeCalculator.pdb
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.sourcelink.json
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.dll
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\refint\GradeCalculator.dll
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.pdb
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\dboateng089\Downloads\dcit318-assignment1-11218606\GradeCalculator\obj\Debug\net9.0\ref\GradeCalculator.dll
